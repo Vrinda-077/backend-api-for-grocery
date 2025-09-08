@@ -1,7 +1,7 @@
 [
-    { "id": 1, "name": "Tomato", "price": 30, "unit": "kg", "image": "https://www.themealdb.com/images/ingredients/Tomato.png", "description": "Fresh red tomatoes perfect for curries and salads." },
+    { "id": 1, "name": "Tomato", "price": 30, "unit": "kg", "image": "https://images5.alphacoders.com/368/368817.jpg", "description": "Fresh red tomatoes perfect for curries and salads." },
     { "id": 2, "name": "Potato", "price": 25, "unit": "kg", "image": "https://www.themealdb.com/images/ingredients/Potato.png", "description": "Rich in starch, used in fries, curries and snacks." },
-    { "id": 3, "name": "Onion", "price": 40, "unit": "kg", "image": "https://www.themealdb.com/images/ingredients/Onion.png", "description": "A must-have for Indian cooking, adds flavor to dishes." },
+    { "id": 3, "name": "Onion", "price": 40, "unit": "kg", "image": "https://www.indusfresh.co.uk/image/cache/catalog/products1/Red_Onion_01-1000x1000.jpg", "description": "A must-have for Indian cooking, adds flavor to dishes." },
     { "id": 4, "name": "Carrot", "price": 60, "unit": "kg", "image": "https://www.themealdb.com/images/ingredients/Carrot.png", "description": "Crunchy and sweet carrots rich in vitamin A." },
     { "id": 5, "name": "Cabbage", "price": 35, "unit": "kg", "image": "https://www.themealdb.com/images/ingredients/Cabbage.png", "description": "Green leafy cabbage for curries and salads." },
     { "id": 6, "name": "Cauliflower", "price": 50, "unit": "kg", "image": "https://cdn.pixabay.com/photo/2017/02/25/13/27/vegetables-2097762_1280.jpg", "description": "Fresh cauliflower florets for frying and curry." },
